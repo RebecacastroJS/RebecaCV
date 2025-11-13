@@ -38,8 +38,7 @@ this portfolio was built using:
 ## 🚀 live preview
 
 check out the live version here:
-👉 [my portfolio](#) *(add your link when published)*
- 
+👉 [my portfolio]()
 ---
  
 ## 🛠️ features
