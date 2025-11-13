@@ -38,7 +38,7 @@ this portfolio was built using:
 ## 🚀 live preview
 
 check out the live version here:
-👉 [my portfolio]()
+👉 [my portfolio](https://rebecacastrojs.github.io/RebecaCV/)
 ---
  
 ## 🛠️ features
